@@ -12,15 +12,15 @@ Hi, I'm [Mubassir Hasan](https://thebookofmubassir.com/), a Full Stack Developer
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning GraphQL and Micro Service;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/mubassir911);
+- 📫 How to reach me: [@mubassir911](https://twitter.com/mubassir911);
 
 ### Connect with me:
 
 [<img align="left" alt="thebookofmubassir.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mubassir hasan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="mubassir hasan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mubassir hasan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mubassir hasan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
@@ -53,12 +53,13 @@ Hi, I'm [Mubassir Hasan](https://thebookofmubassir.com/), a Full Stack Developer
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [E-Commerce Website using MVC Core (With Source Code)](https://www.youtube.com/watch?v=8dt6IIj0TI0)
-- [My Class (Online Classroom System) using  .Net Core](https://www.youtube.com/watch?v=W2dBuyiMpQo)
+- [My Class (Online Classroom System) using .Net Core](https://www.youtube.com/watch?v=W2dBuyiMpQo)
 - [Just Jump](https://www.youtube.com/watch?v=vrSYgE8_3D0)
 - [BITM Android App Batch-2 BTV Show](https://www.youtube.com/watch?v=F1gUrxVPQYw)
 - [Menu & SQLite](https://www.youtube.com/watch?v=Gu9liXMmDjE)
-<!-- YOUTUBE:END -->
+  <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/UCZManyDXilKY3MEJcX0K6bQ)
 
@@ -67,9 +68,10 @@ Hi, I'm [Mubassir Hasan](https://thebookofmubassir.com/), a Full Stack Developer
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Select2 not showing expected Result on Bootstrap Modal](https://thebookofmubassir.com/javascript/jquery/select2-not-working-on-bootstrap-modal-popup/?utm_source=rss&utm_medium=rss&utm_campaign=select2-not-working-on-bootstrap-modal-popup)
 - [Hello World to Blogging](https://thebookofmubassir.com/my-life/hello-world-to-blogging-2/?utm_source=rss&utm_medium=rss&utm_campaign=hello-world-to-blogging-2)
-<!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thebookofmubassir.com/)
 
@@ -86,7 +88,7 @@ Hi, I'm [Mubassir Hasan](https://thebookofmubassir.com/), a Full Stack Developer
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mubassir-hasan&show_icons=true&hide_border=true" />
+  <img align="left" alt="mubassir hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mubassir-hasan&show_icons=true&hide_border=true" />
 
 </details>
 
