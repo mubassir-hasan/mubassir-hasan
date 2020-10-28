@@ -50,14 +50,15 @@ Hi, I'm [Mubassir Hasan](https://thebookofmubassir.com/), a Full Stack Developer
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [E-Commerce Website using MVC Core (With Source Code)](https://www.youtube.com/watch?v=8dt6IIj0TI0)
-- [My Class (Online Classroom System) using  .Net Core](https://www.youtube.com/watch?v=W2dBuyiMpQo)
+- [My Class (Online Classroom System) using .Net Core](https://www.youtube.com/watch?v=W2dBuyiMpQo)
 - [Just Jump](https://www.youtube.com/watch?v=vrSYgE8_3D0)
 - [BITM Android App Batch-2 BTV Show](https://www.youtube.com/watch?v=F1gUrxVPQYw)
 - [Menu & SQLite](https://www.youtube.com/watch?v=Gu9liXMmDjE)
-<!-- YOUTUBE:END -->
+  <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/UCZManyDXilKY3MEJcX0K6bQ)
 
 ---
 
@@ -67,7 +68,7 @@ Hi, I'm [Mubassir Hasan](https://thebookofmubassir.com/), a Full Stack Developer
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://studio.youtube.com/channel/UCZManyDXilKY3MEJcX0K6bQ)
+➡️ [more blog posts...](https://thebookofmubassir.com/)
 
 ---
 
@@ -82,7 +83,7 @@ Hi, I'm [Mubassir Hasan](https://thebookofmubassir.com/), a Full Stack Developer
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mubassir-hasan&show_icons=true&hide_border=true />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mubassir-hasan&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -91,7 +92,3 @@ Hi, I'm [Mubassir Hasan](https://thebookofmubassir.com/), a Full Stack Developer
 [youtube]: https://www.youtube.com/channel/UCZManyDXilKY3MEJcX0K6bQ
 [instagram]: https://instagram.com/mubassirxor
 [linkedin]: https://www.linkedin.com/in/mubassir-hasan/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
