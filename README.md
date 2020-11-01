@@ -10,7 +10,7 @@ Hi, I'm [Mubassir Hasan](https://thebookofmubassir.com/), a Full Stack Developer
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and Micro Service;
+- 🌱 Love to get involved with problem but not a competitive solver :see_no_evil: 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@mubassir911](https://twitter.com/mubassir911);
 
