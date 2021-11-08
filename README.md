@@ -57,11 +57,11 @@ Hi, I'm [Mubassir Hasan](https://thebookofmubassir.com/), a Full Stack Developer
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [E-Commerce Website using MVC Core (With Source Code)](https://www.youtube.com/watch?v=8dt6IIj0TI0)
-- [My Class (Online Classroom System) using  .Net Core](https://www.youtube.com/watch?v=W2dBuyiMpQo)
+- [E-Commerce Website using MVC Core &lpar;With Source Code&rpar;](https://www.youtube.com/watch?v=8dt6IIj0TI0)
+- [My Class &lpar;Online Classroom System&rpar; using  .Net Core](https://www.youtube.com/watch?v=W2dBuyiMpQo)
 - [Just Jump](https://www.youtube.com/watch?v=vrSYgE8_3D0)
 - [BITM Android App Batch-2 BTV Show](https://www.youtube.com/watch?v=F1gUrxVPQYw)
-- [Menu & SQLite](https://www.youtube.com/watch?v=Gu9liXMmDjE)
+- [Menu &amp; SQLite](https://www.youtube.com/watch?v=Gu9liXMmDjE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/UCZManyDXilKY3MEJcX0K6bQ)
