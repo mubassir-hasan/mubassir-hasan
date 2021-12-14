@@ -71,10 +71,7 @@ Hi, I'm [Mubassir Hasan](https://thebookofmubassir.com/), a Full Stack Developer
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Create SEO friendly Title](https://thebookofmubassir.com/c-extension/create-seo-friendly-title/?utm_source=rss&utm_medium=rss&utm_campaign=create-seo-friendly-title)
-- [Reset table identity column to 0](https://thebookofmubassir.com/sql/reset-table-identity-column-to-0/?utm_source=rss&utm_medium=rss&utm_campaign=reset-table-identity-column-to-0)
-- [Select2 not showing expected Result on Bootstrap Modal](https://thebookofmubassir.com/javascript/jquery/select2-not-working-on-bootstrap-modal-popup/?utm_source=rss&utm_medium=rss&utm_campaign=select2-not-working-on-bootstrap-modal-popup)
-- [Hello World to Blogging](https://thebookofmubassir.com/my-life/hello-world-to-blogging-2/?utm_source=rss&utm_medium=rss&utm_campaign=hello-world-to-blogging-2)
+- [Hello world!](https://alayaat.com/2021/12/09/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thebookofmubassir.com/)
