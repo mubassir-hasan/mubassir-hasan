@@ -74,7 +74,7 @@ Hi, I'm [Mubassir Hasan](https://thebookofmubassir.com/), a Full Stack Developer
 - [Hello world!](https://alayaat.com/2021/12/09/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://thebookofmubassir.com/)
+➡️ [more blog posts...](https://mubassir.me/)
 
 ---
 
